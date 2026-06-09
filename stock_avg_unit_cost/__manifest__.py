@@ -9,5 +9,5 @@
         'views/stock_valuation_layer_views.xml',
     ],
     'installable': True,
-    'application': True,
+    'application': False,
 }

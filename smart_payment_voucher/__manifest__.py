@@ -36,5 +36,5 @@ Features:
         "reports/payment_template.xml",
     ],
     "installable": True,
-    "application": False,
+    "application": True,
 }
