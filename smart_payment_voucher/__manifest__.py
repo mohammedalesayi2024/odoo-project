@@ -1,6 +1,6 @@
 {
     "name": "Smart Payment Voucher",
-    "version": "19.0.1.0.0",
+    "version": "19.0.1.0.1",
     "category": "Accounting",
     "summary": "Professional Receipt and Payment Voucher Reports",
     "description": """
@@ -22,12 +22,8 @@ Features:
         "account",
     ],
     "data": [
-        "security/ir.model.access.csv",
-
-        "data/sequence_data.xml",
 
         "views/res_company_views.xml",
-        "views/res_config_settings_views.xml",
         "views/account_payment_views.xml",
 
         "reports/receipt_voucher.xml",
